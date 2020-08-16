@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Indoexotic/static/css/main.a615748a.chunk.css",
-    "main.js": "/Indoexotic/static/js/main.d45bd4b4.chunk.js",
-    "main.js.map": "/Indoexotic/static/js/main.d45bd4b4.chunk.js.map",
+    "main.css": "/Indoexotic/static/css/main.04aa6c9a.chunk.css",
+    "main.js": "/Indoexotic/static/js/main.054fdc5e.chunk.js",
+    "main.js.map": "/Indoexotic/static/js/main.054fdc5e.chunk.js.map",
     "runtime-main.js": "/Indoexotic/static/js/runtime-main.223652c6.js",
     "runtime-main.js.map": "/Indoexotic/static/js/runtime-main.223652c6.js.map",
-    "static/css/2.1a8daee9.chunk.css": "/Indoexotic/static/css/2.1a8daee9.chunk.css",
-    "static/js/2.b3d2757b.chunk.js": "/Indoexotic/static/js/2.b3d2757b.chunk.js",
-    "static/js/2.b3d2757b.chunk.js.map": "/Indoexotic/static/js/2.b3d2757b.chunk.js.map",
+    "static/css/2.7ef725b3.chunk.css": "/Indoexotic/static/css/2.7ef725b3.chunk.css",
+    "static/js/2.85724bdb.chunk.js": "/Indoexotic/static/js/2.85724bdb.chunk.js",
+    "static/js/2.85724bdb.chunk.js.map": "/Indoexotic/static/js/2.85724bdb.chunk.js.map",
     "index.html": "/Indoexotic/index.html",
-    "precache-manifest.eb0a6523aabdb518244408a532fdaccb.js": "/Indoexotic/precache-manifest.eb0a6523aabdb518244408a532fdaccb.js",
+    "precache-manifest.01e84819ef80d2ce62e84b95bea9188b.js": "/Indoexotic/precache-manifest.01e84819ef80d2ce62e84b95bea9188b.js",
     "service-worker.js": "/Indoexotic/service-worker.js",
-    "static/css/2.1a8daee9.chunk.css.map": "/Indoexotic/static/css/2.1a8daee9.chunk.css.map",
-    "static/css/main.a615748a.chunk.css.map": "/Indoexotic/static/css/main.a615748a.chunk.css.map",
-    "static/js/2.b3d2757b.chunk.js.LICENSE.txt": "/Indoexotic/static/js/2.b3d2757b.chunk.js.LICENSE.txt",
+    "static/css/2.7ef725b3.chunk.css.map": "/Indoexotic/static/css/2.7ef725b3.chunk.css.map",
+    "static/css/main.04aa6c9a.chunk.css.map": "/Indoexotic/static/css/main.04aa6c9a.chunk.css.map",
+    "static/js/2.85724bdb.chunk.js.LICENSE.txt": "/Indoexotic/static/js/2.85724bdb.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/Indoexotic/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.223652c6.js",
-    "static/css/2.1a8daee9.chunk.css",
-    "static/js/2.b3d2757b.chunk.js",
-    "static/css/main.a615748a.chunk.css",
-    "static/js/main.d45bd4b4.chunk.js"
+    "static/css/2.7ef725b3.chunk.css",
+    "static/js/2.85724bdb.chunk.js",
+    "static/css/main.04aa6c9a.chunk.css",
+    "static/js/main.054fdc5e.chunk.js"
   ]
 }
